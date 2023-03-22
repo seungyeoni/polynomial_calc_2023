@@ -138,4 +138,5 @@ public class CalcTests {
     void t25() {
         assertThat(Calc.run("-(10 + 5)")).isEqualTo(-15);
     }
+
 }
